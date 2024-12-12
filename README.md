@@ -1,5 +1,4 @@
-# Chat-with-PDFs
-## Chat PDF
+# AI Document Summarizer
 
 This project allows you to use conversational AI to interact with the content of uploaded PDF files. You can ask questions about the contents of the PDFs, and the model will attempt to answer them based on its understanding of the text.
 
@@ -40,7 +39,3 @@ This project allows you to use conversational AI to interact with the content of
 ### Contributing
 
 This project is open-source, and contributions are welcome! If you'd like to contribute, please refer to the project's contribution guidelines (if available) or reach out to the project maintainers.
-
-### License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
