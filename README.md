@@ -35,7 +35,3 @@ This project allows you to use conversational AI to interact with the content of
 2. **Conversational AI:**
    - A pre-trained Chat Generative AI model is used in conjunction with the vector store to answer your questions.
    - The model considers the context of your question and the information obtained from the processed PDFs to provide an answer.
-
-### Contributing
-
-This project is open-source, and contributions are welcome! If you'd like to contribute, please refer to the project's contribution guidelines (if available) or reach out to the project maintainers.
